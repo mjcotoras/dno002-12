@@ -1,9 +1,9 @@
 # dno002-12
 # final-final
 
-### Primero, para quién:
+Primero, para quién:
 
-#### Mainstream
+ Mainstream
 
 | Preguntas | Respuestas |
 |---|---|
@@ -12,7 +12,7 @@
 | Objetivos y Motivaciones | Quiere entender por qué tanta gente votó por Kast. Intuye que el discurso tuvo algo que ver pero busca una lectura más objetiva que la opinión de sus amigos |
 | Puntos de dolor | 1. El análisis político en medios siempre es parcial, nunca ve el discurso analizado con datos. 2. No tiene herramientas para distinguir si una frase es "populista" o simplemente directa. 3. Los análisis académicos existen pero son inaccesibles y sin visualizaciones |
 
-#### Un extremo
+ Un extremo
 
 | Preguntas | Respuestas |
 |---|---|
@@ -21,7 +21,7 @@
 | Objetivos y Motivaciones | No busca "analizar el discurso", para él Kast simplemente dijo la verdad. Si llega a la visualización, querría ver confirmado que los problemas que Kast nombró son reales |
 | Puntos de dolor | 1. Desconfía de cualquier análisis crítico porque lo siente parcial. 2. No conoce conceptos como "populismo" — si la visualización los usa sin explicarlos, la cierra. 3. Un diseño que se perciba ideológicamente lo perderá antes del primer gráfico |
 
-#### Otro extremo
+ Otro extremo
 
 | Preguntas | Respuestas |
 |---|---|
@@ -30,14 +30,3 @@
 | Objetivos y Motivaciones | Busca una visualización que comunique sus hallazgos a un público amplio. Quiere explorar la evolución del tono emocional del discurso por tema y por audiencia |
 | Puntos de dolor | 1. Las visualizaciones de discurso existentes son demasiado simples o demasiado crípticas. 2. Se habla de "populismo" en medios sin rigor metodológico. 3. No existe en Chile una visualización interactiva de discurso político como las que se han hecho con Trump o Bolsonaro |
 
----
-
-### Segundo, con qué:
-
-(pendiente)
-
----
-
-### Tercero, qué:
-
-(pendiente)
